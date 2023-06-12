@@ -1,10 +1,3 @@
-/*
-	Lena Le
-	CS 361
-	Assignment #9
-	BlackJack.cpp
-	Program runs a simple black jack game (updated with overloaded relational operators)
-*/
 #include <iostream>
 #include "deck.h"
 #include "hand.h"
