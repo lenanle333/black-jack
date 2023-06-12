@@ -8,4 +8,6 @@ Compile the source code using a C++ compiler:
    g++ main.cpp deck.cpp hand.cpp game.cpp -o blackjack
    ```
 Run the compiled program:
-```./blackjack
+```
+./blackjack
+```
